@@ -1,4 +1,4 @@
-# Predict Fungi Image Classification
+# Fungi Image Classification
 
 Predict Types of Fungi Based on Image Provided
 
